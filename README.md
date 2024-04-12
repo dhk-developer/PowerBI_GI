@@ -4,6 +4,8 @@ Producing meaningful analytics using PowerBI on a dataset containing Global Inde
 ## Overview
 This PowerBI project aims to analyze and visualize the performance and trends of global index funds using historical stock data. The analysis focuses on understanding the impact of currency exchange rates, market volatility, and other factors on the performance of various global indices.
 
+Note: The CSV containing index data is too large to be uploaded onto Github. Please refer to the URL: https://www.kaggle.com/datasets/guillemservera/global-stock-indices-historical-data for the route towards the original dataset. This dataset has been modified using Python code for easier visualisation - the actual values have not been changed / altered in any way.
+
 ### Data Sources
 World Indices Data: Historical stock data for global indices, including open, high, low, close prices, and trading volume.
 Currency Exchange Rates Data: Historical currency exchange rates data to convert the open prices of global indices to USD.
